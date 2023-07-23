@@ -42,12 +42,12 @@ const numbersKey = [
         id: 'five',
     },
     {
-        key: '+',
-        id: 'add'
-    },
-    {
         key: 6,
         id: 'six',
+    },
+    {
+        key: '+',
+        id: 'add'
     },
     {
         key: 1,

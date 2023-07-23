@@ -1,3 +1,4 @@
+import Display from "./Display";
 import KeyPad from "./KeyPad";
 
 const CalculatorFrame = () => {
@@ -7,7 +8,7 @@ const CalculatorFrame = () => {
         <section className='flex flex-col rounded-lg shadow-xl w-[90%] md:w-[25%]' >
 
             <article>
-                Display
+                <Display />
             </article>
 
             <article>
