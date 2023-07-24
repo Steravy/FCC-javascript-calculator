@@ -5,7 +5,7 @@ interface DisplayProps {
     result: string;
 }
 
-const Display: React.FC<DisplayProps> = ({ expression, setExpression, result }: DisplayProps) => {
+const Display: React.FC<DisplayProps> = ({ expression, result }: DisplayProps) => {
 
 
     return (

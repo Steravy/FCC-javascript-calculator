@@ -1,8 +1,6 @@
-import * as math from "mathjs";
 import { useState } from "react";
 import Display from "./Display";
 import KeyPad from "./KeyPad";
-import sanitizeDecimal from "./sanitizeDecimal";
 
 
 const CalculatorFrame = () => {

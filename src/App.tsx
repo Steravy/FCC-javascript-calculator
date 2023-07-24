@@ -1,8 +1,6 @@
-import { useState } from 'react';
 import CalculatorFrame from './components/CalculatorFrame';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
 
