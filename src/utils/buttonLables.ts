@@ -6,7 +6,7 @@ const numbersKey = [
     },
     {
         key: 'C',
-        id: 'clear-one-digit'
+        id: 'cOne'
     },
     {
         key: '/',
