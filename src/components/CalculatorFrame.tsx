@@ -130,7 +130,7 @@ const CalculatorFrame = () => {
 
   return (
 
-    <section className='flex flex-col rounded-lg shadow-xl w-[90%] md:w-[25%]' >
+    <section className='flex flex-col w-[90%] md:w-[25%] border-2 rounded-lg shadow-xl' >
 
       <article>
         <Display result={result} setExpression={setExpression} expression={expression} />
